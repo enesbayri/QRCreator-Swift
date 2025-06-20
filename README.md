@@ -10,9 +10,20 @@ Tailored for both enterprise and individual use cases, the app features a modern
 Below are sample interface views of the application:
 
 
-| Loading | Home | Content | Details |
-|--------|------------|-------------|-----------|-------------|
-| ![loading](assets/ui/1.png) | ![ss1](assets/ui/2.png) | ![ss2](assets/ui/3.png) | ![ss3](assets/ui/4.png) |
+<table>
+  <tr>
+    <th>Loading</th>
+    <th>Home</th>
+    <th>Content</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td><img src="assets/ui/1.png" width="180"/></td>
+    <td><img src="assets/ui/2.png" width="180"/></td>
+    <td><img src="assets/ui/3.png" width="180"/></td>
+    <td><img src="assets/ui/4.png" width="180"/></td>
+  </tr>
+</table>
 
 ## 🚀 Key Features
 
@@ -54,7 +65,7 @@ Controllers/
 Clone the repository and open the `.xcodeproj` file:
 
 ```bash
-git clone https://github.com/your-username/qrcreator-ios.git
+git clone https://github.com/enesbayri/QRCreator-Swift.git
 cd qrcreator-ios
 open QRCreator.xcodeproj
 ```
@@ -68,10 +79,9 @@ open QRCreator.xcodeproj
 
 ## 📄 License
 
-MIT License © Your Name / Organization
+MIT License © Enes BAYRİ
 
 ## 📬 Contact
 
 Business inquiries and partnerships:
-📧 your.email@example.com
-🌐 [your-website.com](https://your-website.com)
+📧 enesbayri1@gmail.com

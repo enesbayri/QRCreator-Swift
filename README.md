@@ -9,10 +9,10 @@ Tailored for both enterprise and individual use cases, the app features a modern
 
 Below are sample interface views of the application:
 
-![UI1](assets/ui/1.png)
-![UI2](assets/ui/2.png)
-![UI3](assets/ui/3.png)
-![UI4](assets/ui/4.png)
+
+| Loading | Home | Content | Details |
+|--------|------------|-------------|-----------|-------------|
+| ![loading](assets/ui/1.png) | ![ss1](assets/ui/2.png) | ![ss2](assets/ui/3.png) | ![ss3](assets/ui/4.png) |
 
 ## 🚀 Key Features
 
